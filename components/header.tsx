@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../public/logo.png"
+import logo from "@/public/LOGO.png"
 import { ChatBubbleBottomCenterTextIcon } from "@heroicons/react/24/solid";
 
 export default function Header() {

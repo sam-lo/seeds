@@ -1,4 +1,4 @@
-import tree from "../public/TREE.jpg"
+import tree from "@/public/TREE.jpg"
 import Image from "next/image";
 import {AcademicCapIcon, HomeModernIcon, CakeIcon, BuildingOffice2Icon, GlobeEuropeAfricaIcon, ClockIcon} from "@heroicons/react/24/solid";
 
